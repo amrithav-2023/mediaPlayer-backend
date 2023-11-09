@@ -1,0 +1,104 @@
+{
+  "Videos": [
+    {
+      "id": "1",
+      "caption": "Vikram trailer",
+      "url": "https://1.bp.blogspot.com/-UGtnnWNjL0U/YOrDjcanEdI/AAAAAAAAxWg/gFoHJ2y4KfEkb5jZ5-HA8S-3HlA4DU1mgCNcBGAsYHQ/s912/Vikram-Poster-2.jpg",
+      "embedLink": "https://www.youtube.com/embed/OKBMCL-frPU"
+    },
+    {
+      "id": "2",
+      "caption": "Leo trailer",
+      "url": "https://www.wallsnapy.com/img_gallery/vijay-leo-first-look-hd-wallpaper-8641881.jpg",
+      "embedLink": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "3",
+      "caption": "indian 2 - an intro",
+      "url": "https://onlookersmedia.in/wp-content/uploads/2022/11/indian-2-makers-release-kamal-haasan-birthday-special-posters-3.jpg",
+      "embedLink": "https://www.youtube.com/embed/kqGj31bQQQ0"
+    },
+    {
+      "id": "4",
+      "caption": "Jawan-Chaleya",
+      "url": "https://tse3.mm.bing.net/th?id=OIP.83ZbwsN-zTGD6fjZBNSNiwAAAA&pid=Api&P=0&h=180",
+      "embedLink": "https://www.youtube.com/embed/8eYG5QGZAZs"
+    },
+    {
+      "id": "5",
+      "caption": "Heeriye",
+      "url": "https://tse1.explicit.bing.net/th?id=OIP.PYpw1GP1FLlMp7Zr0P4sqgHaHa&pid=Api&P=0&h=180",
+      "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo"
+    },
+    {
+      "id": "6",
+      "caption": "sffs,jkfnjks",
+      "url": "bdfusyufi",
+      "embedLink": "https://www.youtube.com/embed/nbuysysdfyf"
+    },
+    {
+      "id": "7",
+      "caption": "bfduhfiuhij",
+      "url": "jfbuishfuihf",
+      "embedLink": "https://www.youtube.com/embed/fjkkudznckj"
+    }
+  ],
+  "Category": [
+    {
+      "categoryName": "songs",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Leo trailer",
+          "url": "https://www.wallsnapy.com/img_gallery/vijay-leo-first-look-hd-wallpaper-8641881.jpg",
+          "embedLink": "https://www.youtube.com/embed/Po3jStA673E"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "trailer",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Leo trailer",
+          "url": "https://www.wallsnapy.com/img_gallery/vijay-leo-first-look-hd-wallpaper-8641881.jpg",
+          "embedLink": "https://www.youtube.com/embed/Po3jStA673E"
+        },
+        {
+          "id": "5",
+          "caption": "Heeriye",
+          "url": "https://tse1.explicit.bing.net/th?id=OIP.PYpw1GP1FLlMp7Zr0P4sqgHaHa&pid=Api&P=0&h=180",
+          "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "History": [
+    {
+      "caption": "Leo trailer",
+      "embedLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "11/07/2023, 10:33:37 AM",
+      "id": 1
+    },
+    {
+      "caption": "Vikram trailer",
+      "embedLink": "https://www.youtube.com/embed/OKBMCL-frPU",
+      "timeStamp": "11/07/2023, 10:34:00 AM",
+      "id": 3
+    },
+    {
+      "caption": "indian 2 - an intro",
+      "embedLink": "https://www.youtube.com/embed/kqGj31bQQQ0",
+      "timeStamp": "11/07/2023, 05:44:26 PM",
+      "id": 4
+    },
+    {
+      "caption": "Jawan-Chaleya",
+      "embedLink": "https://www.youtube.com/embed/8eYG5QGZAZs",
+      "timeStamp": "11/07/2023, 06:14:58 PM",
+      "id": 5
+    }
+  ]
+}
